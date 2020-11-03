@@ -1,4 +1,9 @@
-### Hi there 👋
+<table style="width:100%">
+  <tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=ncduy0303&show_icons=true&hide_border=true" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncduy0303&layout=compact&langs_count=6" /></th>
+  </tr>
+</table>
 
 <!--
 **ncduy0303/ncduy0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
