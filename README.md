@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello, world! I'm Duy! 👋 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ncduy0303)](https://github.com/ncduy0303)
-I'm currently doing an undergraduate degree in Computer Science (CS) at the National University of Singapore.
+I'm currently doing a double degree in Computer Science (CS) and Data Science & Analytics (DSA) at the National University of Singapore.
 
 ## Contacts
 Feel free to reach me for any personal or professional opportunities!
